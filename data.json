@@ -1,0 +1,39 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name": "Iphone 9",
+            "price": 100000,
+            "catagory": "mobile",
+            "brand": "Apple"
+        },
+        {
+            "id":2,
+            "name": "Iphone 10",
+            "price": 120000,
+            "catagory": "mobile",
+            "brand": "Apple"
+        },
+        {
+            "id":3,
+            "name": "Galaxy s3",
+            "price": 90000,
+            "catagory": "mobile",
+            "brand": "Samsung"
+        },
+        {
+            "id":4,
+            "name": "Pixel 7",
+            "price": 150000,
+            "catagory": "mobile",
+            "brand": "Google"
+        },
+        {
+            "id":5,
+            "name": "Nord CE3",
+            "price": 50000,
+            "catagory": "mobile",
+            "brand": "One Plus"
+        }
+    ]
+}
